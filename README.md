@@ -11,3 +11,5 @@
 [This Person Does Not Exist](http://thispersondoesnotexist.com)
 
 [Hendrycks et al., 2021](https://arxiv.org/abs/2109.13916)
+
+[Playing Gran Turismo Sport Using Deep Reinforcement Learning](https://www.youtube.com/watch?v=Zeyv1bN9v4A)
