@@ -1,6 +1,6 @@
 # FinTech @ OSU & Beyond 2021
 
-## AI/ML Sources
+## Sources
 
 [Artificial Intelligence by Russel and Norvig, 2020](http://aima.cs.berkeley.edu)
 
