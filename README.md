@@ -14,4 +14,6 @@
 
 [Cong et al., 2021](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3554486)
 
+[A Neural Network Playground](https://playground.tensorflow.org/)
+
 [Playing Gran Turismo Sport Using Deep Reinforcement Learning](https://www.youtube.com/watch?v=Zeyv1bN9v4A)
