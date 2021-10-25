@@ -17,3 +17,5 @@
 [A Neural Network Playground](https://playground.tensorflow.org/)
 
 [Playing Gran Turismo Sport Using Deep Reinforcement Learning](https://www.youtube.com/watch?v=Zeyv1bN9v4A)
+
+[Malone et al., 2021](https://workofthefuture.mit.edu/research-post/artificial-intelligence-and-the-future-of-work/)
