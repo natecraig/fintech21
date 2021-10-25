@@ -1,4 +1,4 @@
-# FinTech @ OSU & Beyond 2021
+# FinTech @ OSU & Beyond 2021: AI and ML
 
 ## Sources
 
